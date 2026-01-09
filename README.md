@@ -1,6 +1,6 @@
 > **👋 Hi, I’m @gsandeep2024**
 - 👀 I’m interested in Electronics, Hardware & Software, PCB(Printed circuit board)....
-- 🌱 I’m currently learning VLSI (RTL design and verification engineering).
+- 🌱 I’m currently working VLSI (RTL design and verification engineering).
 - 💞️ I’m looking to collaborate on VLSI(Very large Scale Integrated circuit)
 - 📫 How to reach me gsandeep2116@gmail.com
 - 😄 Pronouns: HE / Him
