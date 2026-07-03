@@ -1,14 +1,40 @@
-> **👋 Hi, I’m @gsandeep2024**
-- 👀 I’m interested in Electronics, Hardware & Software, PCB(Printed circuit board)....
-- 🌱 I’m currently working VLSI (RTL design and verification engineering).
-- 💞️ I’m looking to collaborate on VLSI(Very large Scale Integrated circuit)
+markdown# Hi, I'm Gogula Sandeep 👋
+### VLSI / Digital Design / Verification Engineer
+
+I specialize in transforming complex algorithms into efficient hardware architectures. My focus areas include RTL design, advanced verification methodologies (UVM/SystemVerilog).
+
+- 🔭 I’m currently working on: **Vlsi projects (Protocols)**
+- ⚡ Architectural Interests: **[e.g., RISC-V, DSP, Low-Power Design]**
+- 💬 Ask me about: **SystemVerilog, RTL Optimization, and Verification Testbenches**
+
+---
+
+## 🛠️ Toolbelt & Technical Skills
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **HDLs / HVLs** | SystemVerilog, Verilog, VHDL |
+| **Verification** | UVM, Formal Verification, |
+| **EDA Tools** | Synopsys (Design Compiler, VCS), QuestaSim |
+| **FPGAs & Boards**| Xilinx Vivado, Intel Quartus |
+| **Protocols & Interfaces** | AXI4, APB, SPI, I2C, UART, PCIe |
+
+---
+###. 🛡️ [Project Name: e.g., UVM Verification Environment for APB-Bridge]
+*Core Focus: Advanced Verification, Constrained Random Testing, Functional Coverage*
+
+A robust, reusable UVM-based testbench to completely verify an APB bridge macro under rigorous corner-case scenarios.
+
+* **Key Features:**
+  * Built complete UVM architecture (Agent, Scoreboard, Predictor, Subscriber).
+  * Implemented constrained-random sequences targeting back-to-back transfers and wait-states.
+  * Used SystemVerilog assertions (SVA) for protocol violation checks.
+* **Metrics:** Achieved **100% Toggle Coverage** and **98.5% Functional Coverage** across assertions and covergroups.
+* **Visuals:**
+  *(Insert a waveform screenshot or a UVM environment hierarchy block diagram here)*
+
+---
+
 - 📫 How to reach me gsandeep2116@gmail.com
 - 😄 Pronouns: HE / Him
 - ⚡ Fun fact: Listening to music, playing computer games......
-
-![White Minimalist Simple Business Email Signature (4)](https://github.com/gsandeep2024/gsandeep2024/assets/168891601/32d99d0e-9fea-47a1-a74b-f74549dd53c8)
-
-<!---
-gsandeep2024/gsandeep2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
